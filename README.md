@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I am Ammra👋🏻👩🏻‍💻<br><br>👩🏻‍💻I'm a computer science student who is in her 3rd year sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying at ICBT Campus, Colombo<br>💗Just a curious soul about everything<br/>
+![R](https://github.com/user-attachments/assets/d54e7e55-8d46-4e33-a4e4-126d0182c0fe)
+Hi, I am Ammra👋🏻👩🏻‍💻<br>
+<br>👩🏻‍💻I'm a computer science student who is in her 3rd year sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying at ICBT Campus, Colombo<br>💗Just a curious soul about everything<br/>
 
 
 
