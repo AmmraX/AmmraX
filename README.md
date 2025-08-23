@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I am Ammra👋🏻👩🏻‍💻<br><br>👩🏻‍💻I'm a computer science student who is in her 3rd year sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying at ICBT Campus, Colombo<br>💗Just a curious soul about everything<br/>
-![R](https://github.com/user-attachments/assets/592318b2-31d5-4ed0-bbf2-c4eb7af01b6e)
+
 
 
 ## 🌐 Socials:
@@ -15,6 +15,7 @@ Hi, I am Ammra👋🏻👩🏻‍💻<br><br>👩🏻‍💻I'm a computer scien
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![R](https://github.com/user-attachments/assets/592318b2-31d5-4ed0-bbf2-c4eb7af01b6e)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmmraX&limit=5&theme=dark&combine_all_yearly_contributions=true)
