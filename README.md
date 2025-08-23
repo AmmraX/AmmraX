@@ -10,5 +10,4 @@
 <a href="https://instagram.com/ammra.aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ammra.aa" height="30" width="40" /></a>
 </p>
 
-[![Ammra's github stats](https://github-readme-stats.vercel.app/api?username=AmmraX&count privete=true&show icons=true&theme=radical&hide rank=false)]
-(https://github.com/anuraghazra/github-readme-stat)
+[![Ammra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmraX)](https://github.com/anuraghazra/github-readme-stats)
