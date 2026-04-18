@@ -16,6 +16,12 @@ I’m an architect of data, currently pursuing my **BSc (Hons) in Data Science**
 | **Software Dev** | `Java` `Git` `C#` `Html` `react`|
 | **Design & Visuals** | `Figma` `Photoshop` `Tableau` `Matplotlib` |
 
+### ⚡ Quick System Check
+- **Power Source:** ☕ 100% Coffee (Matcha detected: 0%)
+- **Co-Processors:** 🐾 2 Resident Cats (QA Testers)
+- **Visual Engine:** 🏮 Inspired by Anime Aesthetics
+- **Philosophy:** Keep it simple. Make it beautiful.
+
 
 
 
