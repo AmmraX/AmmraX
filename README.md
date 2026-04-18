@@ -22,10 +22,6 @@ I’m an architect of data, currently pursuing my **BSc (Hons) in Data Science**
 | **Software Dev** | `Java` `Git` `C#` `Html` `react`|
 | **Design & Visuals** | `Figma` `Photoshop` `Tableau` `Matplotlib` |
 
----
-
-### 📬 Let's Connect
-[LinkedIn](linkedin.com/in/ammrarizwan) | [Portfolio](YOUR-PORTFOLIO-LINK) | [Email](ammrarizwan@gmail.com)
 
 
 
