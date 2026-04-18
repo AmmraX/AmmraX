@@ -1,4 +1,4 @@
-# Hi, I'm Ammar Rizwan 👋
+# Hi, I'm Ammra Rizwan 👋
 
 ### ⚡ Bridging the gap between Statistical Logic and Aesthetic Design
 I’m an architect of data, currently pursuing my **BSc (Hons) in Data Science** at Cardiff Metropolitan University.
